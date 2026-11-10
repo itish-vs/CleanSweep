@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "Folders": [
+    {
+      "Path": "%LOCALAPPDATA%\\Temp",
+      "DisplayName": "User temporary files",
+      "IsDefault": true,
+      "IsEnabled": true
+    },
+    {
+      "Path": "%LOCALAPPDATA%\\Microsoft\\Windows\\Temporary Internet Files",
+      "DisplayName": "Legacy Internet cache",
+      "IsDefault": true,
+      "IsEnabled": true
+    },
+    {
+      "Path": "%APPDATA%\\Microsoft\\Windows\\Recent",
+      "DisplayName": "Recent items",
+      "IsDefault": true,
+      "IsEnabled": true
+    },
+    {
+      "Path": "%WINDIR%\\Prefetch",
+      "DisplayName": "Windows Prefetch",
+      "IsDefault": true,
+      "IsEnabled": false
+    },
+    {
+      "Path": "%WINDIR%\\Temp",
+      "DisplayName": "Windows temporary files",
+      "IsDefault": true,
+      "IsEnabled": true
+    },
+    {
+      "Path": "%LOCALAPPDATA%\\Google\\Chrome\\User Data\\Default\\Cache",
+      "DisplayName": "Chrome cache",
+      "IsDefault": true,
+      "IsEnabled": true
+    },
+    {
+      "Path": "%LOCALAPPDATA%\\NVIDIA\\DXCache",
+      "DisplayName": "NVIDIA DirectX cache",
+      "IsDefault": true,
+      "IsEnabled": true
+    },
+    {
+      "Path": "%LOCALAPPDATA%\\NVIDIA\\GLCache",
+      "DisplayName": "NVIDIA OpenGL cache",
+      "IsDefault": true,
+      "IsEnabled": true
+    },
+    {
+      "Path": "%LOCALAPPDATA%\\Microsoft\\Windows\\INetCache\\IE",
+      "DisplayName": "Internet Explorer cache",
+      "IsDefault": true,
+      "IsEnabled": true
+    }
+  ]
+}
